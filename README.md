@@ -1,7 +1,7 @@
 
 ### Hello there! 👋 I'm Hanan DARWISHE
 
-Senior Academic, Researcher, and AI/GIS Developer with over 15 years of experience bridging spatial sciences and artificial intelligence. Currently, I am a Visiting Researcher at the University of Lille (LGCgE Laboratory) via the PAUSE program.
+Senior Academic, Researcher, and AI/GIS Developer with over 15 years of experience bridging spatial sciences and artificial intelligence. Currently, I am a Researcher at the University of Lille (LGCgE Laboratory).
 
 ---
 
