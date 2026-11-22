@@ -6,9 +6,9 @@ Senior Academic, Researcher, and AI/GIS Developer with over 15 years of experien
 ---
 
 ### 🚀 What I Do:
-* **AI Agents & EdTech:** Designing and deploying intelligent AI Agents and interactive multi-agent workflows tailored for educational technologies and automated learning platforms (e.g., 'Synapse' project).
-* **Spatial AI & Conversational GIS:** Building conversational GIS tools and integrating Large Language Models (LLMs) with geospatial databases and spatial analysis pipelines.
 * **Geospatial & Environmental Modeling:** Remote Sensing, UAV/Drone imagery processing, flood risk modeling, and spatial statistical analysis.
+* * **Spatial AI & Conversational GIS:** Building conversational GIS tools and integrating Large Language Models (LLMs) with geospatial databases and spatial analysis pipelines.
+  * * **AI Agents & EdTech:** Designing and deploying intelligent AI Agents and interactive multi-agent workflows tailored for educational technologies and automated learning platforms.
 
 ---
 
